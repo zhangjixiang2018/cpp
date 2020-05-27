@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "树的表示方法", "..\�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "线性顺序表c++实现", "..\线性顺序表c++实现\线性顺序表c++实现.vcxproj", "{CA9C4104-DA72-485F-A3A4-58F0E42A5F87}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "排序", "..\排序\排序.vcxproj", "{5F05362C-BA2D-4EC3-AA23-BAF6EC4474E0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{CA9C4104-DA72-485F-A3A4-58F0E42A5F87}.Release|x64.Build.0 = Release|x64
 		{CA9C4104-DA72-485F-A3A4-58F0E42A5F87}.Release|x86.ActiveCfg = Release|Win32
 		{CA9C4104-DA72-485F-A3A4-58F0E42A5F87}.Release|x86.Build.0 = Release|Win32
+		{5F05362C-BA2D-4EC3-AA23-BAF6EC4474E0}.Debug|x64.ActiveCfg = Debug|x64
+		{5F05362C-BA2D-4EC3-AA23-BAF6EC4474E0}.Debug|x64.Build.0 = Debug|x64
+		{5F05362C-BA2D-4EC3-AA23-BAF6EC4474E0}.Debug|x86.ActiveCfg = Debug|Win32
+		{5F05362C-BA2D-4EC3-AA23-BAF6EC4474E0}.Debug|x86.Build.0 = Debug|Win32
+		{5F05362C-BA2D-4EC3-AA23-BAF6EC4474E0}.Release|x64.ActiveCfg = Release|x64
+		{5F05362C-BA2D-4EC3-AA23-BAF6EC4474E0}.Release|x64.Build.0 = Release|x64
+		{5F05362C-BA2D-4EC3-AA23-BAF6EC4474E0}.Release|x86.ActiveCfg = Release|Win32
+		{5F05362C-BA2D-4EC3-AA23-BAF6EC4474E0}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
